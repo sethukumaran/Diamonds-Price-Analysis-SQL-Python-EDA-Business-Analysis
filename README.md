@@ -1,4 +1,4 @@
-# Diamonds Dataset — SQL + Python EDA & Business Analysis
+# Diamonds Price Analysis — SQL + Python EDA & Business Analysis
 
 ## 1. Project overview
 This project performs a senior-analyst-style exploratory data analysis (EDA), data-quality assessment, SQL business analysis, visualization, and predictive price modeling on the classic diamonds dataset.
